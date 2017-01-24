@@ -1,3 +1,5 @@
+#This code was built as a part of exercise from tutorial videos on www.pythonprogramming.net
+
 from matplotlib import pyplot as plt
 import pickle
 import pandas as pd
